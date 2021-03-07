@@ -1,6 +1,10 @@
 *{
     margin: 0;
     padding: 0;
+    
+}
+.hidden{
+    display: none;
 }
 
 body{
@@ -58,4 +62,22 @@ li a{
 li a:hover{
     background: rgb(90, 90, 90);
     border-radius: 9px;
+}
+.title{
+    width: 700px;
+    color:#f2f2f2;
+    font-size: 300%;
+    
+}
+.tite a{
+
+}
+.text{
+    width: 700px;
+    color:#f2f2f2;
+    font-size: 200%;
+}
+.text a{
+    color:rgb(106,176, 243);
+    text-decoration: none;  
 }
